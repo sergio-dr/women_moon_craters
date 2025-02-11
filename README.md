@@ -20,5 +20,5 @@ This dataset was produced by filtering the full crater database from the [USGS P
 CC-BY Francisco Vega, Sergio Díaz
 
 ## Créditos / Data credit
-[USGS Planetary Nomenclature - Moon Craters](https://planetarynames.wr.usgs.gov/SearchResults?Target=16_Moon&Feature%20Type=9_Crater,%20craters)
-[NASA Scientific Visualization Studio CGI Moon Kit](https://svs.gsfc.nasa.gov/4720/)
+* [USGS Planetary Nomenclature - Moon Craters](https://planetarynames.wr.usgs.gov/SearchResults?Target=16_Moon&Feature%20Type=9_Crater,%20craters)
+* [NASA Scientific Visualization Studio CGI Moon Kit](https://svs.gsfc.nasa.gov/4720/)
